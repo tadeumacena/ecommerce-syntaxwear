@@ -5,7 +5,7 @@ SyntaxWear is a modern, responsive e-commerce website template for shoes and sne
 
 ## 🚀 Live Demo
 
-Check out the live demo of the project [here](https://github.com/tadeumacena/ecommerce-syntaxwear.git/).
+Check out the live demo of the project [here]([https://github.com/tadeumacena/ecommerce-syntaxwear.git/](https://tadeumacena.github.io/ecommerce-syntaxwear/)).
 
 ## ✨ Features
 
@@ -106,5 +106,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Project Link: [https://github.com/tadeumacena/ecommerce-syntaxwear.git](https://github.com/tadeumacena/ecommerce-syntaxwear.git)
+Project Link: [Ecommerce SyntaxWear](https://github.com/tadeumacena/ecommerce-syntaxwear.git)
 
